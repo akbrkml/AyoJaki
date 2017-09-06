@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "684542587052",
+    "firebase_url": "https://ayo-jaki.firebaseio.com",
+    "project_id": "ayo-jaki",
+    "storage_bucket": "ayo-jaki.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684542587052:android:06d8793501c70770",
+        "android_client_info": {
+          "package_name": "com.termal.ayojaki"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "684542587052-4s8ec15oomjpjnn7nk5ivj04k23iactr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.termal.ayojaki",
+            "certificate_hash": "c7dc1a9307c04134e9a0ebab5fefca2689de0a00"
+          }
+        },
+        {
+          "client_id": "684542587052-oni24eaf0gsi6aqd14edfusqk7k338kh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9vjnMXCmJCFbKMOVPzQxzv7PgIAXJei4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "684542587052-oni24eaf0gsi6aqd14edfusqk7k338kh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

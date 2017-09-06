@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/akbar/.android/build-cache/9f598942d402ec9bb97042a022b3170a3c5b8722/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="79a435f1c45ac04593a5134d70da983305584e90">
+        <dex dex="/home/akbar/AndroidStudioProjects/AyoJaki/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7f554b030a0c7eef07c9e072e6de6ca56b9015b5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akbar/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/disklrucache/4.0.0/d88059003509074dd59fa226c822724bcf5ec0ca/disklrucache-4.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d88059003509074dd59fa226c822724bcf5ec0ca">
+        <dex dex="/home/akbar/AndroidStudioProjects/AyoJaki/app/build/intermediates/transforms/dex/debug/folders/1000/10/disklrucache-4.0.0_4847240b91ec805dd3815ba78f82e3bde0c69503/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akbar/.android/build-cache/98365bc9a43afdb815f21c1338b532b97df75e1d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="314299924c4866a8fea850a6ab10a7751fbce79d">
+        <dex dex="/home/akbar/AndroidStudioProjects/AyoJaki/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1fe527fef21235577d97f92ecb02f5d8109d0612/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akbar/.android/build-cache/7d9ee9336d9a6c3e0f59e7966e422fa197bdaa4f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="885bcb023a9b57ed31c305e2e94e31af909e21c5">
+        <dex dex="/home/akbar/AndroidStudioProjects/AyoJaki/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_41fd4850fa1b71a1be3c7c9697faa791edce3cf3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akbar/.android/build-cache/7d171dde91f6ce3b2f97cec6164c87f09d19d9a4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="db939a450ea2a721db84e774bf108e20c44a8a1d">
+        <dex dex="/home/akbar/AndroidStudioProjects/AyoJaki/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_63a1240a3902235f37f0e256c8f59636cefb7644/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akbar/.android/build-cache/671ddd514b06da0899e823e15d25ae8059033d00/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="587840a157b50a6380d814a7a5a87b76118405e2">
+        <dex dex="/home/akbar/AndroidStudioProjects/AyoJaki/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ef6a825fcffb9bbd3dc103c2c0130f39f52d2a59/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akbar/.android/build-cache/b0d72d8c28de1785fa2cf3b976091a2715def001/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="03711df0c11eb771a2115c76db9e271eddea1bb8">
+        <dex dex="/home/akbar/AndroidStudioProjects/AyoJaki/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8109dfe64c14af10f736be20e10537c6e626183f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akbar/.android/build-cache/9d76926945e4e1d9db53a696bd6c3a2412a4f0c4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dbbba1fc0f6c51382c3fa1f9223d1f6f9144f359">
+        <dex dex="/home/akbar/AndroidStudioProjects/AyoJaki/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b753ec9e8049ac59844fa22ab1d87ccdd8a561d1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akbar/.android/build-cache/a350dab70c8c90f99fb04c131f0589eccb3faed4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="338791f0ad4a30593b69a9d083380ddb6789dd6a">
+        <dex dex="/home/akbar/AndroidStudioProjects/AyoJaki/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0ec6ce22467ee094dcd01a2b63b3f5cc74d43add/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akbar/.android/build-cache/1b507d86d90dbb3f5ae5c1e924ad98cda44a22aa/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a9bc3e11fbff8e0d503ff795c12c73e1a6fad7a9">
+        <dex dex="/home/akbar/AndroidStudioProjects/AyoJaki/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_80a2e549604522cc8f57bf333e57ab97d78adfeb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akbar/.android/build-cache/0438c3b53680eb3918f8207eed7eb545a49a5ded/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5493a7c08b74d424d08a23c68334893cfd2d5ee3">
+        <dex dex="/home/akbar/AndroidStudioProjects/AyoJaki/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_069c47661a288941cce7de068b0a8c3b77a58fa8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akbar/.android/build-cache/5aedfff12a27e070ba40bb62e9720c1749b1427f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="acd4f9fad8500386084346a88ca47e2b66e84ffd">
+        <dex dex="/home/akbar/AndroidStudioProjects/AyoJaki/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_195db981c047d3bf96fffc0ba44995062c678367/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akbar/.android/build-cache/7edbb65d5f7015e30056870bb278523c9952d1b1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5bad89ac06f1015490c3332c1cd160be1d17c049">
+        <dex dex="/home/akbar/AndroidStudioProjects/AyoJaki/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c59174bbe558abb5a4ea3eb2b1f720e9ade880cf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akbar/.android/build-cache/baae1477632dec62f7bc482b5fba1c4b58bb7db8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f2bae22c4925830cc03e81f4911f62b445bf132f">
+        <dex dex="/home/akbar/AndroidStudioProjects/AyoJaki/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_73448ccd13071dac4d944cec8a28137e469ef371/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akbar/.android/build-cache/52f37f046e26c67eef5d804a677f0f0f11d4ebe4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2df23fb8581e8503db6e33739b450f9eb4a8b30a">
+        <dex dex="/home/akbar/AndroidStudioProjects/AyoJaki/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ed37c9371a12f7e356cb4c38f6345d7a01dbdd80/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akbar/.android/build-cache/89f76997430e277787da0c97a5fdd89b8203ae03/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15857dce424132cb53e37cba16b9d587a6c5c568">
+        <dex dex="/home/akbar/AndroidStudioProjects/AyoJaki/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_defadc2c477a3ee602481218ccb9745eea7622d1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akbar/.android/build-cache/1fb3f43d6274c8c087dec7e6fd8ed10ced665494/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="543cbd7526b5bf05a5a1be344c53b1994f22a04f">
+        <dex dex="/home/akbar/AndroidStudioProjects/AyoJaki/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_083686c2e946780fa7634be0147a9893bb6ecf15/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akbar/AndroidStudioProjects/AyoJaki/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="277055f9cf84ed7b30e0bbee27bfb2f56efc608c">
+        <dex dex="/home/akbar/AndroidStudioProjects/AyoJaki/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e63d80fbe4af59468165808133aeebd29cca3dfe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akbar/.android/build-cache/bf983b893fbdfd37049ef4c70038bc8ad9714fe4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="68a1346f52b0e623460bf2f70c59c59a7a34bcea">
+        <dex dex="/home/akbar/AndroidStudioProjects/AyoJaki/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d147564bee22801e2d4b06a2c9b06db220e3c175/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akbar/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/gifdecoder/4.0.0/47c487cc4e64e6ab127a517669ca9a7b49f8c61d/gifdecoder-4.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47c487cc4e64e6ab127a517669ca9a7b49f8c61d">
+        <dex dex="/home/akbar/AndroidStudioProjects/AyoJaki/app/build/intermediates/transforms/dex/debug/folders/1000/10/gifdecoder-4.0.0_7def4129bc381270429136d786e89f3d32f4b838/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akbar/.android/build-cache/4e84357294c4bc963e5e2ee4764709f82a475bc1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7357cef91864a283c8db913866f50bafbe8c6801">
+        <dex dex="/home/akbar/AndroidStudioProjects/AyoJaki/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_89c97e491a020fee35b8f8996d021dc33bb64d1c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akbar/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/annotations/4.0.0/f80192e6fd828d41c7da6f3552b0bef5d89cb26e/annotations-4.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f80192e6fd828d41c7da6f3552b0bef5d89cb26e">
+        <dex dex="/home/akbar/AndroidStudioProjects/AyoJaki/app/build/intermediates/transforms/dex/debug/folders/1000/10/annotations-4.0.0_d4810bf7b01f762de1d1d9692e77712c14de7ebf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akbar/.android/build-cache/399cbf49d5f99fa6929f6d548a5b7e507128fc64/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4737d9835cf3ea9751f7d6647be60900062d1062">
+        <dex dex="/home/akbar/AndroidStudioProjects/AyoJaki/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_17e1d74abd985d284c25b601e9b71cfd14d097be/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akbar/.android/build-cache/5266a3d2a6d29f7ff92fd13491e4cacdab3ac8a5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="acaf8846fcf5556493bdbe075b13ea664bb1e9f5">
+        <dex dex="/home/akbar/AndroidStudioProjects/AyoJaki/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_522ca807cf6b5c9ebda7ba9f642599c07cc6190e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akbar/.android/build-cache/737fb52b5cfbce7e09a932b95a54c088f0d23748/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a3d07dfddc7c3c7547fb953847589d586f1e2077">
+        <dex dex="/home/akbar/AndroidStudioProjects/AyoJaki/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4b8b5d4ae8a83a993e0d205647d38dc2826de31a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akbar/.android/build-cache/29fc91bb09d060d1730b20e631bc7becff85c71d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="25c862ccc7a67cc4682ea9cacf08918693e915ef">
+        <dex dex="/home/akbar/AndroidStudioProjects/AyoJaki/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7f24188a06b49cf30f10798d7b72e1c5e704df99/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akbar/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/4.0.0/dff931af436f0a2815d0109ab2258bbce2d6275d/glide-4.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dff931af436f0a2815d0109ab2258bbce2d6275d">
+        <dex dex="/home/akbar/AndroidStudioProjects/AyoJaki/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-4.0.0_04164e31b6012eafc3a6364bc98158433e587f49/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akbar/.android/build-cache/8a199f137722c6c1a84d2918284df3a489809bee/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f260cdc1a267b17b911022919f19d568e6624229">
+        <dex dex="/home/akbar/AndroidStudioProjects/AyoJaki/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e889b15c3293885021bfa3bb74879bfc3032ff89/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akbar/.android/build-cache/6767f1f109362c8b659ee0d34d8775abc238c720/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5da59bfe8bee5a41daa7c26b970b12699ac8db">
+        <dex dex="/home/akbar/AndroidStudioProjects/AyoJaki/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bfac667f1267c1d451225f0cdc772dd5cca0b988/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akbar/AndroidStudioProjects/AyoJaki/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/akbar/AndroidStudioProjects/AyoJaki/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d3487652d9fad9615991218359f843ba8eed810e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akbar/.android/build-cache/073bbd061dce79fb430190c07d2646056cabdff1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5c6a0af36142b32d1f81ab099b73e90a25e360e2">
+        <dex dex="/home/akbar/AndroidStudioProjects/AyoJaki/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_eba75916289cb27f130f919db3b67e953a671454/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akbar/.android/build-cache/3718f17f1c38ce415f3f1bf0fb9495417d9f7ba3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="976b0a037981a05e685415093c67ad73c94d4846">
+        <dex dex="/home/akbar/AndroidStudioProjects/AyoJaki/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_447c08b1494b2bdae089dd916d66cb29bae01b09/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akbar/.android/build-cache/cfe4958dcd385deefcb2d4edbee9003e53918647/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e015f5a6691f80b1f71e5299d48933be6a057963">
+        <dex dex="/home/akbar/AndroidStudioProjects/AyoJaki/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_63a945e90f3f5b3d0158bead0bbfbd7acb3ec972/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akbar/.android/build-cache/dad2f5c644e42884c14e8a1837c73de236e79c53/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3560fc891bbecd8982acbace15ccead59c3fedd1">
+        <dex dex="/home/akbar/AndroidStudioProjects/AyoJaki/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c61fc64133086d1128facf6b89cf6aaa9c51f5ad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akbar/.android/build-cache/58f8085664b40e0403dc55209ed2d470f2663f25/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="240e5a7c620376184f3168cfdd36315b97b1fe07">
+        <dex dex="/home/akbar/AndroidStudioProjects/AyoJaki/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ab67d1b69f1fd78fa4d7133d80c979628a074034/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akbar/.android/build-cache/9aab21103cf4536eb2aa5aaa233700198c68d959/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="af13a350b71b437ebf4be335d02a8f785c39b111">
+        <dex dex="/home/akbar/AndroidStudioProjects/AyoJaki/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ddbdd592219163e33746f50932853f655359806d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akbar/.android/build-cache/6d80eb060af69c0e4c05f93278d74b7a90c6796f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1fd6dc27f1ebe5bdbf26aa54773d11327f91532b">
+        <dex dex="/home/akbar/AndroidStudioProjects/AyoJaki/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_34a572cf59b0dcb1a5f6d51b50981a08721e7998/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akbar/.android/build-cache/fb4acf2011e4820e54d67df9a951e3439118e612/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cdfe6f00bbbe6bf590b4306017d485d845ffc7e5">
+        <dex dex="/home/akbar/AndroidStudioProjects/AyoJaki/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_525042670c8a7b2320f71f4ce7b6dde82d43a528/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akbar/.android/build-cache/36bc7ac30cb330efa84bfdb4355ee54f4c43d547/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="86e2c2399cfd7f8271b535b0e7d8ec092d0c6335">
+        <dex dex="/home/akbar/AndroidStudioProjects/AyoJaki/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_14bb8444e25f33acb79d00cdb9dd83c2c138d0b2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akbar/.android/build-cache/f48acaefbd927a9c9a812faf3279a8f13087339a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f909161e9bac1dd36538a275f06cae462082316a">
+        <dex dex="/home/akbar/AndroidStudioProjects/AyoJaki/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7ef7c573efb0706d323acea0e2e2b29b1a0eb18a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akbar/.android/build-cache/19038a1f20f75dbefaa276615182585c87c8f6ae/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e4ff475aad14939684efd3227ec19cd49e90888f">
+        <dex dex="/home/akbar/AndroidStudioProjects/AyoJaki/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_09baa4145a6cdc73c0e91c8077e03d4de64dab12/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akbar/.android/build-cache/4b532d948e2aeacd11097a1434a2310901807c41/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d3a27693b28b46af644df8ce765f4252b32c9e87">
+        <dex dex="/home/akbar/AndroidStudioProjects/AyoJaki/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9148afada9f29d6be8f33d3a65388e525a31467c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akbar/.android/build-cache/52608a7317a106fa188af0692c1ae32aabd98853/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ba90907329e4ed429307d39490927b456838bf08">
+        <dex dex="/home/akbar/AndroidStudioProjects/AyoJaki/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_88ccb1361669b82b1a5f74506e09f08f9d73c824/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akbar/.android/build-cache/bbd8674dd8165e61561615c35f36baa53da35b97/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9be5e957849eb82ad9addf9bdb2896de8bf5654b">
+        <dex dex="/home/akbar/AndroidStudioProjects/AyoJaki/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_65076c6d80fbfaa4d571e82a435f81323b88f19f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akbar/.android/build-cache/f56921d66dfff3514fa7da86ec4a92b3ef83322c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3f813cc0713085e46735bcabf9def2ffb6419de7">
+        <dex dex="/home/akbar/AndroidStudioProjects/AyoJaki/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_65085a944f3fddb53bc311a584592699e3c590b5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akbar/.android/build-cache/7f399844c24bf7d09caff9a56efd53da6956e693/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b84a791dc9bcda50cb84e4498e0502b3e4dfd47d">
+        <dex dex="/home/akbar/AndroidStudioProjects/AyoJaki/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ae724aa90a048ee3fda60e2211e0226b2c7d0b43/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akbar/.android/build-cache/e6eff48ce1f7b0d7e1858ce3afffc7b525b55ab0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="424e509954db08079f78b20947e2cf120c045e48">
+        <dex dex="/home/akbar/AndroidStudioProjects/AyoJaki/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_12908ba9f31d4ee2c36622d7eb5d650667c6bcb3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akbar/.android/build-cache/47ba17ee7ecedcd9dfde28af5d4f944360fbe6c0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="50fde88f529e2c238d72467da774e113f47dc866">
+        <dex dex="/home/akbar/AndroidStudioProjects/AyoJaki/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bfce9d24fa93143b680e75e3d3babfb4121a2965/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akbar/.android/build-cache/359641361c920cc3aedba3046df1916f52791631/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0cccf7679b2764a849f90e2b581e2ec8d411679f">
+        <dex dex="/home/akbar/AndroidStudioProjects/AyoJaki/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1156ae1cb22ce253d0041e1ba549661bbbfbf93a/classes.dex" />
+    </item>
+
+</items>
