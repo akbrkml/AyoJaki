@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="firebase-dynamic-links-11.0.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/6d80eb060af69c0e4c05f93278d74b7a90c6796f/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/6d80eb060af69c0e4c05f93278d74b7a90c6796f/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

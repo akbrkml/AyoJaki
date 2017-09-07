@@ -1,5 +1,6 @@
 package com.termal.ayojaki.view;
 
+import android.content.Intent;
 import android.support.annotation.NonNull;
 import android.os.Bundle;
 import android.text.TextUtils;
@@ -104,7 +105,7 @@ public class RegisterActivity extends BaseActivity {
 
     @OnClick(R.id.btn_forget)
     public void doRemember(){
-
+        startActivity(new Intent(RegisterActivity.this, LupaPasswordActivity.class));
     }
 
     @OnClick(R.id.btn_register)

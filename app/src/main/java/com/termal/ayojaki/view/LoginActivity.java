@@ -67,7 +67,7 @@ public class LoginActivity extends BaseActivity {
 
     @OnClick(R.id.btn_forget)
     public void doRemember(){
-
+        startActivity(new Intent(LoginActivity.this, LupaPasswordActivity.class));
     }
 
     @OnClick(R.id.btn_register)
